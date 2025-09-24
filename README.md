@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=keliandancot" alt="keliandancot" /></a> </p>
 
-- 🔭 I’m currently working on **a game**
+- 🔭 I’m currently working on **a application for dnd character creation**
 
 - 🌱 I’m currently learning **All the game development courses I can find**
 
